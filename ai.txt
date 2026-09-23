@@ -1,0 +1,3 @@
+# Spawning ai.txt - disallow all AI training use
+User-agent: *
+Disallow: /
